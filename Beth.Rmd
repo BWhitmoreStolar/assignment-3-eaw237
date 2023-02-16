@@ -1,0 +1,18 @@
+---
+title: "About Beth"
+author: "Beth"
+date: "2023-02-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About
+<br>
+* Beth is a trained zooplankton taxonomist, specializing in Laurentian Great Lakes Cladocera.
+<br>
+* She has 8 years of experience working with Great Lakes zooplankton.
+<br>
+* She has sailed on all 5 Laurentian Great Lakes.

@@ -1,0 +1,11 @@
+---
+title: "Great Lakes Zooplankton"
+author: "Beth Whitmore-Stolar (BWhitmoreStolar)and Azwad Iqbal (azwadriqbal)"
+date: "2023-02-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+![The Laurentian Great Lakes](https://ohiodnr.gov/static/documents/water/WIPP/Compact%20Map.jpg)
