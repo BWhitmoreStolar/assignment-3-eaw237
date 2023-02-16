@@ -9,3 +9,43 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ![The Laurentian Great Lakes](https://ohiodnr.gov/static/documents/water/WIPP/Compact%20Map.jpg)
+<br>
+
+## Common Calanoids
+<br>
+* Leptodiaptomus sicilis
+<br>
+* Skistodiaptomus oregonensis
+<br>
+* Leptodiaptomus ashlandi
+<br>
+* Leptodiaptomus minutus
+<br>
+* Limnocalanus macrurus
+<br>
+* Senecella calanoides
+<br>
+
+## Common Cyclopoids
+<br>
+* Diacyclops thomasi
+<br>
+* Mesocyclops edax
+<br>
+* Tropocyclops mexicanus
+<br>
+
+## Common Cladocera
+<br>
+* Daphnia galeta mendote
+<br>
+* Daphnia retrocurva
+<br>
+* Holopedium gibberum
+<br>
+* Diaphanosoma birgei
+<br>
+* Bosmina (eubosmina) coregoni
+<br>
+* Bosmina sp.
+<br>
